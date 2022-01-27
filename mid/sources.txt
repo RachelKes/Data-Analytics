@@ -1,0 +1,6 @@
+https://www.kaggle.com/promptcloud/walmart-product-data
+
+https://www.kaggle.com/promptcloud/walmart-product-data?select=stores+data-set.csv
+
+https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
+

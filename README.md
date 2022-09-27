@@ -6,7 +6,7 @@
 
 ##### Data Analytics
 - 3 types: Predictive Modeling, Descriptive Modeling, Decision Modeling
-- 5 types (Oracle): Prediction/forecast linear/non linear, Classsification, outliers, time series, clustering
+- 5 types: Prediction/forecast linear/non linear, Classsification, outliers, time series, clustering
 - EDA 
 - Data Cleaning
 - SQLite 
